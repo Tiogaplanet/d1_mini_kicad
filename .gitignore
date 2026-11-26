@@ -20,3 +20,4 @@ _autosave-*
 # generated dxf
 *.dxf
 /template/.history
+*.lck

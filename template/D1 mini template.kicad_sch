@@ -680,7 +680,7 @@
 			(uuid "e30163ff-a6c7-4c8b-b4e0-02f7aa172e70")
 		)
 		(instances
-			(project "D1 mini shield"
+			(project "D1 mini template"
 				(path "/8d1f8f81-4ea2-4aef-a838-b363855477f6"
 					(reference "#PWR02")
 					(unit 1)
@@ -758,7 +758,7 @@
 			(uuid "0365e9c1-f03e-44cc-9e08-123c1dcb3d4c")
 		)
 		(instances
-			(project "D1 mini shield"
+			(project "D1 mini template"
 				(path "/8d1f8f81-4ea2-4aef-a838-b363855477f6"
 					(reference "#FLG01")
 					(unit 1)
@@ -880,7 +880,7 @@
 			(uuid "fbc44202-5f71-4628-ae9a-f67dcd52d07d")
 		)
 		(instances
-			(project "D1 mini shield"
+			(project "D1 mini template"
 				(path "/8d1f8f81-4ea2-4aef-a838-b363855477f6"
 					(reference "J1")
 					(unit 1)
@@ -959,7 +959,7 @@
 			(uuid "3c29bd9e-ed31-4e7b-ad7f-173da8fd97bd")
 		)
 		(instances
-			(project "D1 mini shield"
+			(project "D1 mini template"
 				(path "/8d1f8f81-4ea2-4aef-a838-b363855477f6"
 					(reference "#PWR01")
 					(unit 1)

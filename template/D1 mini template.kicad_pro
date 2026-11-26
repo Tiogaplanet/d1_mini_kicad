@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "D1 mini shield.kicad_pro",
+    "filename": "D1 mini template.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -691,8 +691,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "D1 mini shield.kicad_sch",
-        "name": "Root",
+        "filename": "D1 mini template.kicad_sch",
+        "name": "D1 mini template",
         "uuid": "8d1f8f81-4ea2-4aef-a838-b363855477f6"
       }
     ],
@@ -702,7 +702,7 @@
   "sheets": [
     [
       "8d1f8f81-4ea2-4aef-a838-b363855477f6",
-      "Root"
+      "D1 mini template"
     ]
   ],
   "text_variables": {},
