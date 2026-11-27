@@ -168,7 +168,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Pin connector, two single rows, 01x08"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -182,14 +182,6 @@
 		(path "/afaf4c38-b1f3-4610-a291-24b8f756c606")
 		(sheetname "/")
 		(sheetfile "D1 mini template.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "5" "6" "7" "8" "16" "15" "14" "13" "12" "11" "10"
-					"9"
-				)
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_rect
@@ -930,6 +922,68 @@
 				(xyz -180 -0 -180)
 			)
 		)
+	)
+	(gr_line
+		(start 136.769642 77.569642)
+		(end 136.769642 81.569642)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "dbd0af8e-527f-43bf-9457-e448d4a5ac53")
+	)
+	(gr_arc
+		(start 136.769642 77.569642)
+		(mid 137.355428 76.155428)
+		(end 138.769642 75.569642)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "1b489522-f7a4-4686-8663-ba89d8e930db")
+	)
+	(gr_line
+		(start 136.769642 81.569642)
+		(end 161.769642 81.569642)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "6f0198a5-6646-4a24-9d5a-9c11647ee1c3")
+	)
+	(gr_line
+		(start 159.769642 75.569642)
+		(end 138.769642 75.569642)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "419bef17-6c73-4962-bfb6-50115487f195")
+	)
+	(gr_arc
+		(start 159.769642 75.569642)
+		(mid 161.183856 76.155428)
+		(end 161.769642 77.569642)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "bb2274fd-2c4a-430e-a1ff-4bf8a91e9ed7")
+	)
+	(gr_line
+		(start 161.769642 77.569642)
+		(end 161.769642 81.569642)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "1b3ada08-2cd4-42b8-baaa-177dd7c65ce1")
 	)
 	(gr_line
 		(start 136.562673 77.369553)
