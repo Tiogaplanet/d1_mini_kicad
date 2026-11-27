@@ -21,3 +21,5 @@ _autosave-*
 *.dxf
 /template/.history
 *.lck
+/example_shields/1-Button/.history
+/example_shields/1-Button/plot
